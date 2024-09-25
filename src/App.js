@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import My3DScene from './My3DScene';
+import My3DScene from './components/My3DScene'; // Adjust the import path
 
 function App() {
   return (
